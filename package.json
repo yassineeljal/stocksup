@@ -1,0 +1,25 @@
+{
+  "name": "stocksup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "ts-node-dev --respawn src/v2/app.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yassineeljal/stocksup.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/yassineeljal/stocksup/issues"
+  },
+  "homepage": "https://github.com/yassineeljal/stocksup#readme",
+  "devDependencies": {
+    "typescript": "^5.9.3"
+  }
+}

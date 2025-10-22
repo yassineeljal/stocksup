@@ -1,0 +1,33 @@
+# Node.js dependencies
+node_modules/
+
+# TypeScript build output
+dist/
+build/
+
+# Log files
+*.log
+
+# Environment variables
+.env
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# IDE or Editor specific files
+.vscode/
+.idea/
+
+# npm package-lock files (if you want to avoid version conflicts)
+package-lock.json
+
+# Compiled JavaScript files (if you prefer to avoid committing compiled files)
+*.js
+*.d.ts
+
+# Optional: Coverage folder (if you're using a coverage tool like Jest)
+coverage/
+
+# TypeScript cache (if using `tsc --watch`)
+*.tsbuildinfo
